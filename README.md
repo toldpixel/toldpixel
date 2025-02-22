@@ -13,9 +13,8 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **[GPU Directory](https://github.com/toldpixel/gpu-directory)**  
-- 🌱 I’m currently learning **Distributed Systems**  
-- 💬 Ask me about **React, JavaScript, Node.js**  
-- 📫 How to reach me: **[LinkedIn](#)** | **[Email](#)**  
+- 🌱 I’m currently learning **Distributed Systems & Machine Learning**  
+- 💬 Ask me about **React, JavaScript, Node.js**
 
 ---
 
