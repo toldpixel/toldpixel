@@ -2,8 +2,10 @@
 <h3 align="center">Passionate Full Stack Developer from Germany 🇩🇪</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Distributed+Systems;Building+scalable+and+efficient+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Distributed+Systems;Scalable+and+efficient+applications" alt="Typing SVG" />
 </p>
+
+![Alt Text]([https://www.google.de/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fghost-in-the-shell-stand-alone-com&psig=AOvVaw06QyQKOkDfoJrh_QmLZJBv&ust=1740333788814000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiYwt7u14sDFQAAAAAdAAAAABAi]))
 
 ---
 
